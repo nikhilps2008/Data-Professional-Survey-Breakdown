@@ -24,7 +24,7 @@ This project involves analyzing data from a comprehensive survey of data profess
 
 ## Visualizations
 The following visualizations are included in the project:
-- **Dashboard Overview:** ![Dashboard Overview](reports/figures/Data%20Professional%20Report.png)
+- **Dashboard Overview:** ![Dashboard Overview](reports/figures/Data%20Professional%20Survey%20Report.png)
 
 ## Tools Used
 
