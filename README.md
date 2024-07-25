@@ -1,34 +1,48 @@
-# Interactive Sales Analysis
+# Data-Professional-Survey-Breakdown
 
-## Project Scope
-This project focuses on transforming raw sales data into dynamic, real-time visualizations using Microsoft Excel. The dashboard provides actionable insights into sales performance through advanced Excel features, enabling effective decision-making and strategy refinement.
+## Problem Statement
 
-## Context or Background Info
-Analyzing sales data effectively is crucial for businesses to understand performance trends, customer behavior, and operational efficiency. This project leverages Excel's capabilities to offer a comprehensive analysis of sales data, including customer segmentation, profitability trends, product performance, and store comparisons. The interactive dashboard is designed to engage stakeholders and support data-driven decision-making.
+Understanding the demographics, job satisfaction, salary distribution, work-life balance, and preferred programming languages of data professionals to provide insights into the current state of the industry.
+
+## Project Overview
+
+This project involves analyzing data from a comprehensive survey of data professionals from various countries, job titles, and industries. The goal is to uncover key insights that can help understand the landscape of the data profession better. The analysis provides valuable information on:
+
+- Average salaries by job title
+- Work/life balance and salary satisfaction
+- Industry breakdown
+- Country representation
+- Popular programming languages
+
+## Key Insights
+
+- **Average Salary by Job Title**: Data Scientists lead with an average salary of $93.78k, followed by Data Engineers and Data Architects.
+- **Work/Life Balance & Salary Satisfaction**: Survey-takers rated their satisfaction with work/life balance and salary, providing a measure of overall job satisfaction.
+- **Industry Breakdown**: The distribution of survey-takers across various industries, including Tech, Finance, Healthcare, Education, etc.
+- **Country Representation**: The survey included professionals from countries like the United States, India, United Kingdom, Canada, and others.
+- **Programming Languages**: Python emerged as the most popular programming language among survey-takers, followed by R and other languages.
 
 ## Visualizations
-The dashboard includes various visualizations to explore different aspects of sales data:
-- **Dashboard Overview:** ![Dashboard Overview](reports/figures/Interacive Sales Analysis-1.png)
+The following visualizations are included in the project:
 - **Dashboard Overview:** ![Dashboard Overview](reports/figures/Data%20Professional%20Survey%20Report.png)
 
+## Tools Used
+
+- **Power BI**: For creating interactive and visually appealing dashboards to present the findings.
+- **Power Query Editor**: For data cleaning and preparation before loading it into Power BI.
+
 ## Author
-Nikhil Sreenivasan
+
+- **Nikhil Sreenivasan**: Data Analyst with expertise in data visualization and analysis.
 
 ## Data Sources
-- **Dataset:** Contains raw sales data, including revenue, profit, customer demographics, product details, and store performance metrics.
-- **Data File Location:** `/data/raw/sales_data.xlsx`
+
+The data used for this analysis is contained in an Excel file located in the `data/raw/` directory. The file includes survey responses from data professionals.
 
 ## Dependencies
-- **Microsoft Excel:** For data cleaning, analysis, and visualization.
-- **Power Query Editor:** For transforming and loading data.
-- **Pivot Tables and Charts:** For creating dynamic and interactive visualizations.
-- **Advanced Excel Features:** Such as conditional formatting, data validation, and dynamic arrays.
 
-## Conclusion and Insights
-The interactive sales dashboard provides valuable insights into sales performance, helping businesses refine their strategies and optimize operations. Key findings include:
-- **Customer Analysis:** Reveals profit contributions segmented by gender and age, aiding in targeted marketing.
-- **Profitability Trends:** Identifies patterns in sales effectiveness and seasonality.
-- **Product Analysis:** Highlights top-performing items and insights into return and refund rates.
-- **Store Performance Comparison:** Offers a detailed view of store performance and month-by-month sales data.
+This project relies solely on Power BI for data analysis and visualization. Ensure you have the necessary version of Power BI Desktop installed to view and interact with the reports.
 
-This project demonstrates how Excel can transform raw data into actionable insights, driving informed business decisions and improving overall sales performance.
+## Conclusion
+
+This project provides valuable insights into the data profession, highlighting key aspects such as salary, job satisfaction, and preferred programming languages. These insights can help guide career decisions and understand industry trends.
