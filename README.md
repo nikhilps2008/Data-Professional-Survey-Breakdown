@@ -23,12 +23,8 @@ This project involves analyzing data from a comprehensive survey of data profess
 - **Programming Languages**: Python emerged as the most popular programming language among survey-takers, followed by R and other languages.
 
 ## Visualizations
-
-Visualizations and charts are provided in the `reports/figures/` directory. These include:
-
-- Bar charts showing average salary by job title.
-- Pie charts depicting industry and country breakdowns.
-- Line graphs for work/life balance and salary satisfaction metrics.
+The following visualizations are included in the project:
+- **Dashboard Overview:** ![Dashboard Overview](reports/figures/Data%20Professional%20Report.png)
 
 ## Tools Used
 
