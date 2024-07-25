@@ -1,5 +1,16 @@
 # Data-Professional-Survey-Breakdown
 
+## Table of Contents
+1. [Problem Statement](#problem-statement)
+2. [Project Overview](#project-overview)
+3. [Folder Structure](#folder-structure)
+4. [Visualizations](#visualizations)
+5. [Tools Used](#tools-used)
+6. [Author](#author)
+7. [Data Sources](#data-sources)
+8. [Dependencies](#dependencies)
+9. [Conclusion](#conclusion)
+
 ## Problem Statement
 
 Understanding the demographics, job satisfaction, salary distribution, work-life balance, and preferred programming languages of data professionals to provide insights into the current state of the industry.
@@ -14,15 +25,22 @@ This project involves analyzing data from a comprehensive survey of data profess
 - Country representation
 - Popular programming languages
 
-## Key Insights
+## Folder Structure
 
-- **Average Salary by Job Title**: Data Scientists lead with an average salary of $93.78k, followed by Data Engineers and Data Architects.
-- **Work/Life Balance & Salary Satisfaction**: Survey-takers rated their satisfaction with work/life balance and salary, providing a measure of overall job satisfaction.
-- **Industry Breakdown**: The distribution of survey-takers across various industries, including Tech, Finance, Healthcare, Education, etc.
-- **Country Representation**: The survey included professionals from countries like the United States, India, United Kingdom, Canada, and others.
-- **Programming Languages**: Python emerged as the most popular programming language among survey-takers, followed by R and other languages.
+The project follows the structure below:
+
+- **`data/`**: Contains raw data files.
+  - `raw/` - Original dataset.
+
+- **`reports/`**: Contains project reports and visualizations.
+  - `figures/` - PNG photos of the dashboard.
+  - `videos/` - Videos demonstrating the dashboard.
+  - `powerbi/` - Power BI files used for data analysis and visualization.
+
+- **`README.md`**: This file.
 
 ## Visualizations
+
 The following visualizations are included in the project:
 - **Dashboard Overview:** ![Dashboard Overview](reports/figures/Data%20Professional%20Survey%20Report.png)
 
