@@ -43,6 +43,9 @@ The project follows the structure below:
 
 The following visualizations are included in the project:
 - **Dashboard Overview:** ![Dashboard Overview](reports/figures/Data%20Professional%20Survey%20Report.png)
+- **Dashboard Demo:**
+
+https://github.com/user-attachments/assets/c6461918-3b46-443a-a1b9-9a4f0f61a671
 
 ## Tools Used
 
